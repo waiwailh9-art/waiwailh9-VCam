@@ -1,0 +1,6 @@
+cd VCam
+git init
+git add .
+git commit -m "init: VCam virtual camera tweak"
+git remote add origin https://github.com/你的用户名/VCam.git
+git push -u origin main
